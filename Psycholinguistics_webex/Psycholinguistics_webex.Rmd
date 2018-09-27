@@ -17,7 +17,7 @@ if (!requireNamespace("webex")) {
 ```
 
 
-Welcome
+A very warm welcome to you my esteemed colleague.
 
 This is a Web Exercise template created by the [psychology teaching team at the University of Glasgow](http://www.psy.gla.ac.ukUniversity of Glasgow), based on ideas by [Software Carpentry](https://software-carpentry.org/lessons/). This template enables instructors to easily create web documents that students can use in self-assessment.
 
