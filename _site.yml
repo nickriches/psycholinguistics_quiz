@@ -1,0 +1,9 @@
+name: "Linguistics Course"  
+author: "Nick Riches"  
+output_dir: "docs"  
+output:  
+  html_document:  
+    number_sections: yes
+    toc: yes
+    toc_float:
+      collapsed: yes
