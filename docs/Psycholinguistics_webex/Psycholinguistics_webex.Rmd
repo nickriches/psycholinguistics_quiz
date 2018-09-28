@@ -1,7 +1,11 @@
 ---
-title: "Untitled"
+title: "Psycholinguistics Quizzes"
 output:
   html_document:
+    number_sections: yes
+    toc: yes
+    toc_float:
+      collapsed: yes
     css: webex.css
     includes:
       after_body: webex.js
@@ -16,66 +20,19 @@ if (!requireNamespace("webex")) {
 }
 ```
 
+# The dual route model
 
-A very warm welcome to you my esteemed colleague.
+According to the d`r fitb("ual", width = "15")` r`r fitb("oute", width = "15")` model, past tense verbs are generated via either a l`r fitb("exical", width = "15")` or a g`r fitb("rammatical", width = "15")` route.
 
-This is a Web Exercise template created by the [psychology teaching team at the University of Glasgow](http://www.psy.gla.ac.ukUniversity of Glasgow), based on ideas by [Software Carpentry](https://software-carpentry.org/lessons/). This template enables instructors to easily create web documents that students can use in self-assessment.
+The former involves an`r fitb("alogical", width = "15")` and fr`r fitb("equency", width = "15")`-driven processes, while the latter involves co`r fitb("mputational", width = "15")` processes. The former involves the de`r fitb("clarative", width = "15")` memory system, while the latter involves the pr `r fitb("ocedural", width = "15")` memory system.
 
-The webex package provides a number of functions that you use in [inline R code](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf) to create HTML widgets (text boxes, pull down menus, buttons that reveal hidden content). Examples are provided in this document. Knit this file to HTML to see how it works.
+If the pr`r fitb("ocedural", width = "15")` memory system is impaired, this will result in better production of `r mcq(c("regular", answer = "irregular"))` verbs than `r mcq(c(answer = "regular", "irregular"))` verbs.
 
-*NOTE: If the widgets don't work for you in the built-in RStudio browser, open the HTML file in a different browser.*
+If the de`r fitb("clarative", width = "15")` memory system is impaired, this will result in better production of `r mcq(c(answer = "regular", "irregular"))` verbs than `r mcq(c("regular", answer = "irregular"))` verbs.
 
-## Fill-In-The-Blanks (`fitb()`)
+Which of the following is NOT characterised by by better performance on irregulars than regulars? `r mcq(c("Parkinson's", answer = "Alzheimers", "Developmental Language Disorder", "Agrammatic non-fluent Aphasia (Broca's type"))`
 
-Create fill-in-the-blank questions using `fitb()`, providing the answer as the first argument.
+The term ps`r fitb("eudo", width = "15")`-regularity describes the phenomenon whereby the irregular system mimics the regular system.
 
-- 2 + 2 is `r fitb("4")`
+This is a Web Exercise template created by the [psychology teaching team at the University of Glasgow](http://www.psy.gla.ac.ukUniversity of Glasgow), based on ideas by [Software Carpentry](https://software-carpentry.org/lessons/).
 
-You can also create these questions dynamically, using variables from your R session.
-
-```{r echo = FALSE}
-x <- sample(2:8, 1)
-```
-
-- The square root of `r x^2` is: `r fitb(x)`
-
-The blanks are case-sensitive; if you don't care about case, use the argument `ignore_case = TRUE`.
-
-- What is the letter after D? `r fitb("E", ignore_case = TRUE)`
-
-If you want to ignore differences in whitespace use, use the argument `ignore_ws = TRUE` and include spaces in your answer anywhere they could be acceptable..
-
-- How do you load the tidyverse package? `r fitb("library( tidyverse )", ignore_case = TRUE, width = "20")`
-
-You can set more than one possible correct answer by setting the answers as a vector.
-
-- Type a vowel: `r fitb(c("A", "E", "I", "O" , "U"), ignore_case = TRUE)`
-
-## Multiple Choice (`mcq()`)
-
-- "Never gonna give you up, never gonna: `r mcq(c("let you go", "turn you down", "run away", answer = "let you down"))`"
-- "I `r mcq(c(answer = "bless the rains", "guess it rains", "sense the rain"))` down in Africa" -Toto
-
-## True or False (`torf()`)
-
-- You can permute values in a vector using `sample()`. `r torf(TRUE)`
-
-## Hidden solutions and hints (`hide()` and `unhide()`)
-
-- Recreate the scatterplot below, using the built-in `cars` dataset.
-
-```{r echo = FALSE}
-with(cars, plot(speed, dist))
-```
-
-`r hide("I need a hint")`
-`?plot`
-`r unhide()`
-
-`r hide()`
-```{r eval = FALSE}
-with(cars, plot(speed, dist))
-```
-`r unhide()`
-
-*Don't forget to `unhide()` after the solution!*
