@@ -20,6 +20,10 @@ if (!requireNamespace("webex")) {
 }
 ```
 
+This is a Web Exercise template created by the [psychology teaching team at the University of Glasgow](http://www.psy.gla.ac.ukUniversity of Glasgow), based on ideas by [Software Carpentry](https://software-carpentry.org/lessons/).
+
+_Unfortunately, these interactive quizzes do not appear to work correctly using the Microsoft browser Explorer. Please write a letter to Bill Gates! However, they work correctly on Chrome and Firefox, and probably most other browsers (NB all university machines should have Chrome installed)_
+
 # The dual route model
 
 According to the d`r fitb("ual", width = "15")` r`r fitb("oute", width = "15")` model, past tense verbs are generated via either a l`r fitb("exical", width = "15")` or a g`r fitb("rammatical", width = "15")` route.
@@ -34,5 +38,64 @@ Which of the following is NOT characterised by by better performance on irregula
 
 The term ps`r fitb("eudo", width = "15")`-regularity describes the phenomenon whereby the irregular system mimics the regular system.
 
-This is a Web Exercise template created by the [psychology teaching team at the University of Glasgow](http://www.psy.gla.ac.ukUniversity of Glasgow), based on ideas by [Software Carpentry](https://software-carpentry.org/lessons/).
+`r hide("Show answers")`
 
+According to the DUAL ROUTE model, past tense verbs are generated via either a LEXICAL or a GRAMMATICAL route.
+
+The former involves ANALOGICAL and FREQUENCY-driven processes, while the latter involves COMPUTATIONAL processes. The former involves the DECLARATIVE memory system, while the latter involves the PROCEDURAL memory system.
+
+If the PROCEDURAL memory system is impaired, this will result in better production of IRREGULAR verbs than REGULAR verbs.
+
+If the DECLARATIVE memory system is impaired, this will result in better production of REGULAR verbs than IRREGULAR verbs.
+
+Which of the following is NOT characterised by by better performance on irregulars than regulars? ALZHEIMMER'S
+
+The term PSEUDO-regularity describes the phenomenon whereby the irregular system mimics the regular system.
+
+`r unhide()`
+
+# Models of morphological representation
+
+A morpheme is the smallest unit of m`r fitb("eaning", width = "12")`. Morphemes which come at the beginning or ends of words are called a`r fitb("ffixes", width = "12")`. If a word contains more than one morpheme it is m`r fitb("ulti", width = "8")`morphemic, and if it contains only one morpheme it is m`r fitb("ono", width = "8")`morphemic.
+
+There is some debate regarding the storage of multimorphemic words. According to a`r fitb("ffix", width = "8")`-stripping accounts, morphemes in multimorphemic words are stored separately. However, according to wh`r fitb("ole", width = "8")`-entry accounts, multimorphemic words are stored as wholes.
+
+A variety of data support w`r fitb("hole", width = "8")`-entry accounts:
+
+(1) Reaction Times data from production and lexical d`r fitb("ecision", width = "8")` tasks, suggest that high-frequency m`r fitb("ulti", width = "8")`MORPHEMIC forms may be stored as wholes.
+
+(2) When all affixes are stripped away, sometimes the remaining r`r fitb("oot", width = "8")` has no independent meaning, e.g. in-EVIT-able.
+
+A variety of data support a`r fitb("ffix", width = "8")`-stripping accounts:
+
+(1) When we hear a word we actively seek out affixes, and activate them in our lexicons, a process known as morpho`r fitb("phonological", width = "10")` p`r fitb("arsing", width = "10")`
+
+(2) When producing words, RTs increase as the number of a`r fitb("ffixes", width = "10")` increase.
+
+(3) Speech errors involve m`r fitb("ovement", width = "10")` of affixes from one word to another.
+
+Finally, some have argued that there are multiple forms of storage, with affixes being represented separately or not according to the semantic tra`r fitb("nsparency", width = "8")` and f`r fitb("requency", width = "8")` of word forms. This framework is called a h`r fitb("ybrid", width = "8")` framework.
+
+`r hide("Show answers")`
+
+A morpheme is the smallest unit of MEANING. Morphemes which come at the beginning or ends of words are called AFFIXES. If a word contains more than one morpheme it is MULTIMORPHEMIC, and if it contains only one morpheme it is MONOMORPHEMIC
+
+There is some debate regarding the storage of multimorphemic words. According to AFFIX-stripping accounts, morphemes in multimorphemic words are stored separately. However, according to WHOLE-entry accounts, multimorphemic words are stored as wholes.
+
+A variety of data support WHOLE-entry accounts:
+
+(1) Reaction Times data from production and lexical DECISION tasks, suggest that high-frequency MULTIMORPHEMIC forms may be stored as wholes.
+
+(2) When all affixes are stripped away, sometimes the remaining ROOT has no independent meaning, e.g. in-EVIT-able.
+
+A variety of data support AFFIX-stripping accounts:
+
+(1) When we hear a word we actively seek out affixes, and activate them in our lexicons, a process known as morphoPHONOLOGICAL PARSING
+
+(2) When producing words, RTs increase as the number of AFFIXES increase.
+
+(3) Speech errors involve MOVEMENT of affixes from one word to another.
+
+Finally, some have argued that there are multiple forms of storage, with affixes being represented separately or not according to the semantic TRANSPARENCY and FREQUENCY of word forms. This framework is called a HYBRID framework.
+
+`r unhide()`
