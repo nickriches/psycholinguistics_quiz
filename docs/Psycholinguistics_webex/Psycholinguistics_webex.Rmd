@@ -99,3 +99,26 @@ A variety of data support AFFIX-stripping accounts:
 Finally, some have argued that there are multiple forms of storage, with affixes being represented separately or not according to the semantic TRANSPARENCY and FREQUENCY of word forms. This framework is called a HYBRID framework.
 
 `r unhide()`
+
+# The lexicon
+
+Many but not all words are stored in semantic hierarchies with three levels, e.g. Furniture > Chair > Stool, Plant > Tree > Sycamore. The middle level is called the b`r fitb(answer = "asic", width = "10")` level. Words which exist at the same level (e.g. chair/table/bookshelf, bush/tree/flower) are called co`r fitb(answer = "hyponyms", width = "10")` or co`r fitb(answer = "ordinates", width = "10")`. The words are said to belong to the same s`r fitb(answer = "emantic", width = "8")` f`r fitb(answer = "ield", width = "10")`. Words at a higher level are called hyp`r fitb(answer = "eronyms", width = "10")` or sup`r fitb(answer = "erordinates", width = "10")`, while words at a lower level are called hyp`r fitb(answer = "onyms", width = "10")` or sub`r fitb(answer = "ordinates", width = "10")`. Words in the middle (the b`r fitb(answer = "asic", width = "10")` level) are more strongly represented in memory: they are easier to v`r fitb(answer = "isualise", width = "10")` and more rapidly n`r fitb(answer = "amed", width = "10")`. There are also links between words which tend to co-occur. Words tend to occur next to each other are called co`r fitb(answer = "llocations", width = "10")`, and words which tend to co-occur in the same chunk (phrase or sentence), but not next to each other are sometimes called ass`r fitb(answer = "ociates", width = "10")`
+
+In word association tasks the most common response is `r mcq(c("superordinates", "subordinates", answer = "coordinates", "collocations/associates"))`, followed by `r mcq(c("superordinates", "subordinates", "coordinates", answer = "collocations/associates"))`. Word association reponses of children with Developmental Language Disorders is characterised by `r mcq(c("more", answer = "fewer"))` semantic relationships, e.g. superordinates. 
+
+Blending errors, e.g. expect + suppose -> suppose, demonstrate (a) p`r fitb(answer = "arallel", width = "10")` a`r fitb(answer = "ctivation", width = "10")`, (b) activation across do`r fitb(answer = "mains", width = "10")`, (c) the existence of a lexical m `r fitb(answer = "onitor", width = "10")` which minimises the possibility of nonword errors.
+
+T`r fitb(answer = "ip", width = "8")`-o`r fitb(answer = "f", width = "8")`-t`r fitb(answer = "he", width = "8")`-t`r fitb(answer = "ongue", width = "8")` studies demonstrate that phonological representations may be p`r fitb(answer = "artially", width = "8")`-activated. The b`r fitb(answer = "athtub", width = "8")` effect refers to phenomenon whereby the beginnings and endings of words are more strongly represented.
+
+`r hide("Show answers")`
+
+Many but not all words are stored in semantic hierarchies with three levels, e.g. Furniture > Chair > Stool, Plant > Tree > Sycamore. The middle level is called the BASIC level. Words which exist at the same level (e.g. chair/table/bookshelf, bush/tree/flower) are called COHYPONYMS or COORDINATES. The words are said to belong to the same SEMANTIC FIELD. Words at a higher level are called HYPERONYMS or SUPERORDINATES, while words at a lower level are called HYPONYMS or SUBORDINATES. Words in the middle (the BASIC level) is more strongly represented in memory: they are easier to VISUALISE and more rapidly NAMED. There are also links between words which tend to co-occur. Words tend to co-occur are called COLLOCATIONS, and words which tend to co-occur in the same chunk (phrase or sentence), but not next to each other are sometimes called ASSOICATES.
+
+In word association tasks the most common response is COORDINATES, followed by COLLOCATIONS/ASSOCIATES. Word association reponses of children with Developmental Language Disorders is characterised by FEWER semantic relationships, e.g. superordinates. 
+
+Blending errors, e.g. expect + suppose -> suppose, demonstrate (a) PARALLEL ACTIVATION, (b) activation across DOMAINS, (c) the existence of a lexical MONITOR which minimises the possibility of nonword errors.
+
+TIP-OF-THE TONGUE studies demonstrate that phonological representations may be PARTIALLY activated. The BATHTUB effect refers to phenomenon whereby the beginnings and endings of words are more strongly represented.
+
+`r unhide()`
+
