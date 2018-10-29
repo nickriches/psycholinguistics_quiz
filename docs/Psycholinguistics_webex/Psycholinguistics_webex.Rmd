@@ -122,3 +122,38 @@ TIP-OF-THE TONGUE studies demonstrate that phonological representations may be P
 
 `r unhide()`
 
+# Word production
+
+According to the TWO-STAGE model, there are two levels between c`r fitb(answer = "oncept", width = "10")`  and art`r fitb(answer = "iculation", width = "10")` : the lem`r fitb(answer = "ma", width = "10")`  and l`r fitb(answer = "exeme", width = "10")`  level. The l`r fitb(answer = "emma", width = "10")`  level contains sem`r fitb(answer = "antic", width = "10")`  and s`r fitb(answer = "yntactic", width = "10")`  information which is modality-`r fitb(answer = "general", width = "10")`. For example it may contain information about grammatical g`r fitb(answer = "ender", width = "10")`, arg`r fitb(answer = "ument", width = "10")` str`r fitb(answer = "ucture", width = "10")`  and how to use the word in a sentence (sub`r fitb(answer = "categorisation", width = "10")`) . The lex`r fitb(answer = "eme", width = "10")`  level contains modality-s`r fitb(answer = "pecific", width = "10")`  information, e.g. information about the word's orth`r fitb(answer = "ography", width = "10")`  and ph`r fitb(answer = "onology", width = "10")` .
+
+According to the picture-word int`r fitb(answer = "erference", width = "10")`  paradigm, a semantic competitor results in `r fitb(answer = "interference", width = "10")`  while a phonological competitor results in early `r fitb(answer = "interference", width = "10")` , but late f`r fitb(answer = "acilitation", width = "10")` . This demonstrates the separation of the lem`r fitb(answer = "ma", width = "10")`  and l`r fitb(answer = "exeme", width = "10")`  levels. The phenomenon whereby errors tend to result in words rather than non-words is called the l`r fitb(answer = "exicality", width = "10")` effect, and suggests the existence of a word-m`r fitb(answer = "onitoring", width = "10")`  system.
+
+`r hide("Show answers")`
+
+According to the TWO-STAGE model, there are two levels between CONCEPT and ARTICUATION: the LEMMA and LEXEME level. The LEMMA level contains SEMANTIC and SYNTACTIC information which is MODALITY-GENERAL. For example it may contain information about grammatical GENDER, ARGUMENT STRUCTURE and how to use the word in a sentence (SUBCATEGORISATION). The LEXEME level contains MODALITY-SPECIFIC information, e.g. information about the word's ORTHOGRAPHY and PHONOLOGY.
+
+According to the PICTURE-WORD INTERFERENCE paradigm, a semantic competitor results in INTERFERENCE while a phonological competitor results in early INTERFERENCE, but late FACILITATION. This demonstrates the separation of the LEMMA and LEXEME levels. The phenomenon whereby errors tend to result in words rather than non-words is called the LEXICALITY effect, and suggests the existence of a word-MONITORING system.
+
+`r unhide()`
+
+# Word comprehension.
+
+According to a`r fitb(answer = "utonomous", width = "10")` models, bottom-up processes precede top-down processes, while according to i`r fitb(answer = "nteractive", width = "10")` models, both types of processes interact with each other.
+
+Studies of phoneme recognition identify cat`r fitb(answer = "egorical", width = "10")` p`r fitb(answer = "erception", width = "10")` find that mbiguous phonemes presented in isolation are assumed to belong to a discrete category. This phenomenon is assumed to reflect `r mcq(c("top down", answer = "bottom up"))` processing. Ph`r fitb(answer = "onemic", width = "10")` r`r fitb(answer = "estoration", width = "10")` referrs to the phenomenon whereby noisy phonetic material (a cough or white noise) takes on a phonetic identity when inserted in a sentence. This phenomenon is assumed to reflect `r mcq(c(answer = "top down", "bottom up"))` processing. Important cues which facilitate ph`r fitb(answer = "onemic", width = "10")` r`r fitb(answer = "estoration", width = "10")` are LEXICAL and CONTEXTUAL cues, and co`r fitb(answer = "articulation", width = "10")` cues.
+
+The g`r fitb(answer = "ating", width = "10")` paradigm involves identifying words from phonetic fragments of increasing length. It demonstrates the early activation of a c`r fitb(answer = "ohort", width = "10")`  (set of possible choices). The g`r fitb(answer = "ating", width = "10")` paradigm is subject to frequency and nei`r fitb(answer = "ghbourhood", width = "10")`  d`r fitb(answer = "ensity", width = "10")`  effects such that the most rapidly identified words are `r mcq(c("frequent from high-density neightbourhoods", answer = "frequent from low-density neighbourhoods", "infrequent from high-density neighbourhoods", "infrequent from low-density neighbourhoods"))`
+
+According to Swinney's (1979) Lexical Decision study, when processing lexically ambiguous words, `r mcq(c(answer = "irrelevant meanings are temporarily activated","irrelevant meanings are permanently activated", "irrelevant meanings are not activated"))` IRRELEVANT MEANINGS ARE TEMPORARILY ACTIVATED.
+
+`r hide("Show Answers")`
+
+According to AUTONOMOUS models, bottom-up processes precede top-down processes, while according to INTERACTIVE models, both types of processes interact with each other.
+
+Studies of phoneme recognition identify CATEGORICAL PERCEPTION whereby ambiguous phonemes presented in isolation are assumed to belong to a discrete category. This phenomonen is assumed to reflect BOTTOM UP processing. PHONEMIC RESTORATION referrs to the phenomenon whereby noisy phonetic material (a cough or white noise) takes on a phonetic identity when inserted in a sentence. This phenomenon is assumed to reflect TOP DOWN processing. Important cues which facilitate PHONEMIC RESTORATION are LEXICAL and CONTEXTUAL cues, and COARTICULATION.
+
+The GATING paradigm involves identifying words from phonetic fragments of increasing length. It demonstrates the early activation of a COHORT (set of possible choices). The GATING paradigm is subject to frequency and NEIGHBOURHOOD DENSITY effects such that the most rapidly identified words are FREQUENT FROM LOW DENSITY NEIGHBOURHOODS.
+
+According to Swinney's (1979) Lexical Decision study, when processing lexically ambiguous words, IRRELEVANT MEANINGS ARE TEMPORARILY ACTIVATED.
+
+`r hide()`
