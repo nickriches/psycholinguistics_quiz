@@ -156,4 +156,42 @@ The GATING paradigm involves identifying words from phonetic fragments of increa
 
 According to Swinney's (1979) Lexical Decision study, when processing lexically ambiguous words, IRRELEVANT MEANINGS ARE TEMPORARILY ACTIVATED.
 
-`r hide()`
+`r unhide()`
+
+# Sentence production
+
+1. Garrett's Sentence Production Model is motivated primarily by `r mcq(c(answer = "Speech errors", "Event Related Potentials", "Patterns of breakdown in aphasia"))`
+
+2. Which of the following is NOT determined at the message level? `r mcq(c("The entities which participate in the action/event", "The action/event", "The thematic roles/relations of the entities", answer = "The syntactic structure of the sentence", "The perspective we take on the event (e.g. which entities are focused)"))`
+
+3. Linking rules are used to `r mcq(c(answer = "map unordered arguments at the functional level onto ordered slots at the positional level", "map unordered arguments at the positional level onto ordered slots at the functional level", "map information at the message level to information at the positional level"))`
+
+4. Lexemes are introduced `r mcq(c(answer = "at the message level", "at the functional level", "at the positional level", answer = "at the phonetic level"))`
+
+5. The sentence "I'm a weekend for maniacs" `r mcq(c("demonstrates the separation of the functional and positional levels", answer = "demonstrates the separation of the positional and phonetic levels", "demonstrates the separation of the message and functional levels"))`
+
+6. This is because `r mcq(c(answer = "the voicing/de-voicing of -s is clearly applied after the lexical transposition has taken place", "The voicing/de-voicing of –s is clearly applied before the lexical transposition has taken place", "The transposition and the voicing/de-voicing of –s clearly take place at the same time"))`
+
+7. Which of the following does NOT count as evidence for the separate retrieval of metrical and segmental information; `r mcq(c("stress shift", answer = "liaison (epenthesis) eg beer-/r/-and chips, I-/j/-am hungry", "People with aphasia produce correct sound sequences without correct stress pattern"))`
+
+8. Which of the following does NOT count as evidence for Levelt’s claim that speech production involves retrieving syllables (form the syllabary)?; `r mcq(c("Liason (epenthesis)", "Use of an before a word starting with a vowel", answer = "Perseveration or perseverative errors eg reading rist", "Aspiration phenomena (e.g. Last hour - /t/ is aspirated)"))`
+
+`r hide("Show answers")`
+
+1. Garrett's Sentence Production Model is motivated primarily by SPEECH ERRORS
+
+2. Which of the following is NOT determined at the message level? THE SYNTACTIC STRUCTURE OF THE SENTENCE
+
+3. Linking rules are used to MAP UNORDERED ARGUMENTS AT THE FUNCTIONAL LEVEL ONTO ORDERED SLOTS AT THE POSITIONAL LEVEL.
+
+4. Lexemes are introduced AT THE PHONETIC LEVEL
+
+5. The sentence "I'm a weekend for maniacs" DEMONSTRATES THE SEPARATION OF THE FUNCTIONAL AND POSITIONAL LEVELS.
+
+6. This is because THE VOICING/DE-VOICING IS CLEARLY APPLIED AFTER THE LEXICAL TRANSPOSITION HAS TAKEN PLACE
+
+7. Which of the following does NOT count as evidence for the separate retrieval of metrical and segmental information; LIAISON (EPENTHESIS), E.G. BEER-/R/-AND CHIPS, I-/J/-AM HUNGRY. THIS IS EVIDENCE FOR A CV SYLLABIC STRUCTURE.
+
+8. Which of the following does NOT count as evidence for Levelt’s claim that speech production involves retrieving syllables (form the syllabary)?; PERSEVERATION OR PERSEVERATIVE ERRORS, E.G. READING RIST. THIS PROCESS PRESUMABLY TAKES PLACE AFTER THE SYLLABLES HAVE BEEN RETRIEVED.
+
+` unhide()`
