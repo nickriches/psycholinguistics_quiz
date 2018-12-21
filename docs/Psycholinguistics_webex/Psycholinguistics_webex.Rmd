@@ -194,4 +194,130 @@ According to Swinney's (1979) Lexical Decision study, when processing lexically 
 
 8. Which of the following does NOT count as evidence for Levelt’s claim that speech production involves retrieving syllables (form the syllabary)?; PERSEVERATION OR PERSEVERATIVE ERRORS, E.G. READING RIST. THIS PROCESS PRESUMABLY TAKES PLACE AFTER THE SYLLABLES HAVE BEEN RETRIEVED.
 
-` unhide()`
+`r unhide()`
+
+# Garden paths
+
+
+1. The term "garden path" describes a phenomena whereby we `r mcq(c("fail to understand a sentence completely", answer ="temporarily misanalyse the structure of a sentence", "access the wrong meaning of a vital word"))`
+
+2. Garden paths demonstrate the existence of syntactic `r mcq(c(answer = "heuristics (dumb but fast procedures)", "holophrastics (dumb but fast procedures)", "hephaistics (dumb but fast procedures)"))`
+
+3. For the sentence "Because Jay always jogs a mile and a half seems a short distance to him" the garden path effect arises from a `r mcq(c("tendency to close the clause boundary as soon as possible", answer = "tendency to keep open the clause boundary for as long as possible", "tendency to make a local attachment"))` 
+
+4. According to "least effort" principles we try to build a syntactic tree `r mcq(c("with the most nodes possible", answer = "with the fewest nodes possible", "with more branches going to the right"))`.
+
+5. According to the Trueswell study, we `r mcq(c(answer = "make predictions regarding sentence structure on hearing the verb.", "make predictions regarding sentence semantics on hearing the verb."))`. These `r mcq(c(answer = "are", "are not"))` based on the previous behaviour of the verb.
+
+`r hide("show answers")`
+
+1. The term "garden path" describes a phenomena whereby we TEMPORARLILY MIS-ANALYSE THE STRUCTURE OF A SENTENCE.
+
+2. Garden paths demonstrate the existence of syntactic HEURISTICS (DUMB BUT FAST PROCEDURES)
+
+3. For the sentence "Because Jay always jogs a mile and a half seems a short distance to him" the garden path effect arises from a TENDENCY TO KEEP OPEN THE CLAUSE BOUNDARY FOR AS LONG AS POSSIBLE.
+
+4. According to "least effort" principles we try to build a syntactic tree WITH THE FEWEST NODES POSSIBLE.
+
+5. According to the Trueswell study, we MAKE PREDICTIONS REGARDING SENTENCE STRUCTURE ON HEARING THE VERB. These ARE based on the previous behaviour of the verb.
+
+`r unhide()`
+
+# Sentence complexity
+
+1. A sentence which is syntactically complex tends to a `r mcq(c("canonical", answer = "non-canonical"))` word order. In other words, the order of syntactic functions is not `r mcq(c(answer = "SUBJECT-VERB-OBJECT", "OBJECT-SUBJECT-VERB", "VERB-SUBJECT-OBJECT"))`.
+
+2. A sentence which is semantically complex has a `r mcq(c("canonical", answer = "non-canonical"))`arrangement of thematic relations. For example, the patient argument is placed in `r mcq(c(answer = "Subject", "Object", "Oblique"))` position.
+
+4. Which of the following does NOT lead to greater processing difficulty? `r mcq(c("Placing dependent clauses in the middle of a sentence", "Placing a patient in subject position", answer = "Having a conjoined Subject Noun Phrase, eg Jack and Jill", "using non-canonical word order"))`
+
+5. Research suggests that the complexity of information stored in the lemma of the verb impacts on processing difficulty (Shapiro, Zurif & Grimshaw, 1987). Which of the following factors is NOT specified in the lemma? `r mcq(c("the subcategorisation frame", "argument structure", answer = "the word form"))`
+
+6. Which of the following sentences will be easiest to process? `r mcq(c("the horse that the lion chased was grey", "the horse that it chased was grey", answer = "the picture that I painted was blue"))`
+
+`r hide("show answers")`
+
+1. A sentence which is syntactically complex tends to have a NONCANONICAL word order. In other words, the order of syntactic functions is not SUBJECT-VERB-OBJECT.
+
+2. A sentence which is semantically complex has a NONCANONICAL arrangement of thematic relations. For example, the patient argument is placed in OBJECT position.
+
+4. Which of the following does not lead to greater processing difficulty? HAVING A CONJOINED SUBJECT NOUN PHRASE.
+
+5. Research suggests that the complexity of information stored in the lemma of the verb impacts on processing difficulty (Shapiro, Zurif & Grimshaw, 1987). Which of the following factors is NOT specified in the lemma? THE WORD FORM
+
+6. Which of the following sentences will be easiest to process? THE PICTURE THAT I PAINTED WAS BLUE. NB ALL SENTENCE HAVE THE SAME STRUCTURE (OBJECT RELATIVE CLAUSE). THIS SENTENCES IS EASIER BECAUSE (A) WE CAN USE ANIMACY TO FIGURE OUT WHO DID WHAT TO WHOM, (B) WE USE A PRONOUN INSIDE TH RELATIVE CLAUSE
+
+`r unhide()`
+
+# Discourse processing
+
+1. Inferences which involve making connections between sentences are called `r mcq(c(answer = "bridging inferences", "elaborative inferences"))`
+
+2. Inferences which involve semantically 'filling in the gaps' using our world knowledge are called `r mcq(c("bridging inferences", answer = "elaborative inferences"))`
+
+3. According to the Construction-Integration model inference involves a combination of `r mcq(c("slow activation of a large number of inferences", answer = "rapid activation of a large number of inferences", "slow activation of small subset of inferences", "rapid activation of a small subset of inferences"))` combined with `r mcq(c("slow pruning of unlikely inferences", answer = "rapid pruning of unlikely inferences"))` It is highly dependent on `r mcq(c("short-term memory", answer = "working memory", "inhibition", "attention"))` to maintain representations of discourse relationships.
+
+4. Which of the following is NOT an experimental paradigm used to test inference-making: `r mcq(c("cued recall", "retelling the passage", "self-paced reading", answer = "elicited imitation"))`
+
+5. How automatic is the inference making process? `r mcq(c("Only bridging inferences are generated automatically", "Only elaborative inferences are generated automatically", answer = "Both bridging and elaborative inferences are generated automatically"))`, `r mcq(c(answer = "but the former are more automatic than the latter", "but the latter are more automatic than the former"))`.
+
+6. According to Gernsbacher and Faust (1991), and Norbury (2005), when language-impaired individuals are required to process lexically-ambiguous words, they are `r mcq(c(answer = "good at activating all potential meanings of a word", "poor at activating all potential meanings of a word"))` but `r mcq(c("good at pruning contextually-irrelevant ones", answer = "poor at pruning contextually irrelevant ones"))`.
+
+`r hide("Show Answers")`
+
+1. Inferences which involve making connections between sentences are called BRIDGING INFERENCES
+
+2. Inferences which involve semantically 'filling in the gaps' using our world knowledge are called ELABORATIVE INFERENCES
+
+3. According to the Construction-Integration model inference involves a combination of RAPID ACTIVATION OF A LARGE NUMBER OF PLAUSIBLE INFERENCES combined with RAPID PRUNING OF UNLIKELY INFERENCES. It is highly dependent on WORKING MEMORY to maintain representations of discourse relationships.
+
+4. Which of the following is NOT an experimental paradigm used to test inference-making: ELICITED IMITATION
+
+5. How automatic is the inference making process? BOTH BRIDGING AND ELBABORATIVE INFERENCES ARE GENERATED AUTOMATICALLY, BUT THE FORMER ARE MORE AUTOMATIC THAN THE LATTER.
+
+6. According to Gernsbacher and Faust (1991), and Norbury (2005), when language-impaired individuals are required to process lexically-ambiguous words, they are GOOD AT ACTIVATING ALL POTENTIAL MEANINGS OF A WORD, BUT POOR AT PRUNING CONTEXTUALLY-IRRELEVANT ONES.
+
+`r unhide()`
+
+# Principles of learning
+
+1. A skewed distribution is characterised by `r mcq(c(answer= "a small number of high-frequency items", "a large number of high-frequency items"))` and  `r mcq(c("a small number of low-frequency items", answer = "a large number of low-frequency items"))` 
+
+2. Which of the following is not characterised by a skewed distribution? `r mcq(c(answer = "the distribution of scores on a psychometric assessment", "Letter frequencies", "word frequencies, e.g. the most common nouns in English", "verbs occurring in particular slots"))`
+
+3. Which of the following distributions is better for learning? `r mcq(c(answer = "a skewed distribution", answer = "a varying distribution without skew", answer = "a condition with no variation"))`
+
+4. Massed learning involves `r mcq(c(answer = "short intervals between learning episodes", answer = "long intervals between learning episodes"))`
+
+5. Disributed learning involves `r mcq(c(answer = "short intervals between learning episodes", answer = "long intervals between learning episodes"))`
+
+6. A high dosage involves `r mcq(c("few repetitions within a single clinical session", answer = "many repetitions within a single clinical session"))`
+
+7. For many types of non-motor learning tasks, the optimal training regime consists of `r mcq(c("short regular intervals between sessions", "long regular intervals between sessions", answer = "expanding intervals between sessions"))`
+
+8. Sleep-related memory consolidation involves `r mcq(c("the frontal lobes", answer = "the hippocampus", "the corpus callosum"))`
+
+9. The testing effect describes the principle whereby `r mcq(c("learning is most effective when we put ourselves under time pressure", answer = "learning is most effective when we are actively involved"))`
+
+`r hide("Show Answers")`
+
+1. A skewed distribution is characterised by A SMALL NUMBER OF HIGH-FREQUENCY ITEMS, and A LARGE NUMBER OF LOW FREQUENCY ITEMS.
+
+2. Which of the following is not characterised by a skewed distribution? THE DISTRIBUTION OF SCORES ON A PSYCHOMETRIC ASSESSMENT (WHICH FOLLOWS A NORMAL DISTRIBUTION)
+
+3. Which of the following conditions is better for learning? A SKEWED DISTRIBUTION.
+
+4. Massed learning involves SHORT INTERVALS BETWEEN LEARNING EPISODES
+
+5. Disributed learning involves LONG INTERVALS BETWEEN LEARNING EPISODES
+
+6. A high dosage involves MANY REPETITIONS WITHIN A SINGLE CLINICAL SESSION.
+
+7. For many types of non-motor learning tasks, the optimal training regime consists of EXPANDING INTERVALS BETWEEN SESSIONS.
+
+8. Sleep-related memory consolidation involves the HIPPOCAMPUS.
+
+9. The testing effect describes the principle whereby LEARNING IS MOST EFFECTIVE WHEN WE ARE ACTIVELY INVOLVED
+
+`r unhide()`
+
